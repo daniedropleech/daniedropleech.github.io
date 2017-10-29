@@ -10,7 +10,7 @@
 <channel>
 	<title>Uncategorised &#8211; Design by Dani</title>
 	<atom:link href="http://localhost/category/uncategorised/feed/" rel="self" type="application/rss+xml" />
-	<link>https://daniedropleech.github.io/design-by-dani/</link>
+	<link>https://daniedropleech.github.io/</link>
 	<description></description>
 	<lastBuildDate>Sun, 29 Oct 2017 19:04:57 +0000</lastBuildDate>
 	<language>en-GB</language>
@@ -19,17 +19,17 @@
 	<generator>https://wordpress.org/?v=4.8.2</generator>
 	<item>
 		<title>Dani&#8217;s first post!</title>
-		<link>https://daniedropleech.github.io/design-by-dani/hello-world/</link>
-		<comments>https://daniedropleech.github.io/design-by-dani/hello-world/#comments</comments>
+		<link>https://daniedropleech.github.io/hello-world/</link>
+		<comments>https://daniedropleech.github.io/hello-world/#comments</comments>
 		<pubDate>Sun, 29 Oct 2017 18:36:03 +0000</pubDate>
 		<dc:creator><![CDATA[DANI]]></dc:creator>
 				<category><![CDATA[Uncategorised]]></category>
 
-		<guid isPermaLink="false">https://daniedropleech.github.io/design-by-dani/?p=1</guid>
+		<guid isPermaLink="false">https://daniedropleech.github.io/?p=1</guid>
 		<description><![CDATA[OMG IT&#8217;S AMAZING!]]></description>
 				<content:encoded><![CDATA[<p>OMG IT&#8217;S AMAZING!</p>
 ]]></content:encoded>
-			<wfw:commentRss>https://daniedropleech.github.io/design-by-dani/hello-world/feed/</wfw:commentRss>
+			<wfw:commentRss>https://daniedropleech.github.io/hello-world/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 	</channel>
